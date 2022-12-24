@@ -28,18 +28,6 @@
 <h2>HighCharts Support</h2>
 Use <a href="https://www.highcharts.com/">Highcharts</a> for displaying interactive charts regarding historical financial stock performance<br/><br/>
 <img src="highcharts.png"/><br/>
-        
-<h2>Screenshots of the developed website</h2>
-<p>Entry Page</p>
-<img src="entry.png"/>
-<p>Outlook Page</p>
-<img src="outlook.png"/>
-<p>Summary Page</p>
-<img src="summary.png"/>
-<p>Charts Page</p>
-<img src="charts.png"/>
-<p>News Page</p>
-<img src="news-tab.png"/><br/>
 
 <h2>API response</h2>
 The Flask backend also exposes data in the form of a REST API, which can be consumed by any other application (not just the above frontend javascript)<br/>
